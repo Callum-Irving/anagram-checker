@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
-//#include <cctype>
 #include <vector>
 
 std::string delSpaces(std::string &str)
